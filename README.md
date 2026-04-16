@@ -9,7 +9,9 @@ Las secciones desarrolladas hasta ahora son:
 1. [Que es el reglamento eIDAS](./tutorial/01-reglamento-eidas.md)
 2. [Glosario basico de terminos eIDAS](./tutorial/02-glosario-eidas.md)
 3. [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
-4. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+4. [Firma electronica simple, avanzada y cualificada](./tutorial/04-firma-electronica.md)
+5. [Certificados cualificados](./tutorial/05-certificados-cualificados.md)
+6. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -58,6 +60,9 @@ El proyecto seguira un formato practico y gradual:
 
 ### 3. Servicios de confianza
 
+- [Firma electronica simple, avanzada y cualificada](./tutorial/04-firma-electronica.md)
+- [Certificados cualificados](./tutorial/05-certificados-cualificados.md)
+
 - firma electronica simple, avanzada y cualificada
 - sellos electronicos
 - sellos de tiempo
@@ -103,16 +108,17 @@ El repositorio se apoyara en tres documentos principales:
 
 ## Estado actual
 
-El proyecto ya cuenta con una base editorial y con tres piezas de contenido inicial dentro de la carpeta `tutorial`. En este momento, el repositorio cubre:
+El proyecto ya cuenta con una base editorial y con varias piezas de contenido inicial dentro de la carpeta `tutorial`. En este momento, el repositorio cubre:
 
 - una introduccion explicativa al reglamento eIDAS
 - un glosario basico de conceptos
 - una seccion especifica sobre prestadores cualificados y no cualificados
+- una comparativa entre firma electronica simple, avanzada y cualificada
+- una explicacion especifica sobre certificados cualificados
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Proximos temas a desarrollar
 
-- comparativa entre firma electronica avanzada y cualificada
 - implicaciones practicas de eIDAS 2.0
 - analisis de los servicios de confianza cualificados
 - casos de uso reales en empresa y Administracion
@@ -120,11 +126,11 @@ El proyecto ya cuenta con una base editorial y con tres piezas de contenido inic
 
 ## Proxima iteracion recomendada
 
-Como siguiente paso, conviene desarrollar un bloque comparativo sobre firma electronica:
+Como siguiente paso, conviene desarrollar un bloque complementario sobre otros servicios de confianza:
 
-1. firma electronica simple
-2. firma electronica avanzada
-3. firma electronica cualificada
+1. sellos electronicos
+2. sellos de tiempo
+3. entrega electronica certificada
 
 ## Referencias iniciales
 

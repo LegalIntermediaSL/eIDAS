@@ -23,3 +23,7 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion de `BITACORA.md` y `CHANGELOG.md` para reflejar el estado actual del proyecto
 - creacion de la seccion empresarial `tutorial/legal-intermedia/01-legal-intermedia-sl.md`
 - inclusion de Legal Intermedia S.L. en el indice del `README.md`
+- redaccion de la comparativa sobre firma electronica en `tutorial/04-firma-electronica.md`
+- actualizacion del `README.md` para incorporar la nueva seccion
+- redaccion de la seccion sobre certificados cualificados en `tutorial/05-certificados-cualificados.md`
+- actualizacion del `README.md` para incorporar certificados cualificados al indice del tutorial

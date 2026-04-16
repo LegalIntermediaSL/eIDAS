@@ -22,6 +22,8 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se sincronizo la documentacion base del proyecto para reflejar el contenido real ya publicado
 - se creo un subdirectorio especifico para incorporar una ficha de la empresa Legal Intermedia S.L.
 - se redacto una seccion empresarial basada en la informacion publica de su web oficial
+- se redacto una comparativa sobre firma electronica simple, avanzada y cualificada
+- se redacto una seccion especifica sobre certificados cualificados
 
 ### Decisiones tomadas
 
@@ -41,7 +43,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 
 ### Siguientes pasos sugeridos
 
-1. anadir una seccion comparativa sobre firma electronica simple, avanzada y cualificada
+1. desarrollar un bloque sobre sellos electronicos y sellos de tiempo
 2. desarrollar un bloque sobre servicios de confianza cualificados
 3. incorporar referencias a casos de uso reales
 4. estudiar la futura incorporacion de un apartado especifico sobre eIDAS 2.0
