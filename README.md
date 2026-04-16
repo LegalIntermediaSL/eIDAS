@@ -41,7 +41,10 @@ Las secciones desarrolladas hasta ahora son:
 29. [Cuadro comparativo de tecnologias y niveles de confianza](./tutorial/29-tecnologias-y-confianza.md)
 30. [Errores frecuentes de implantacion](./tutorial/30-errores-frecuentes-implantacion.md)
 31. [Buenas practicas para empresa y Administracion](./tutorial/31-buenas-practicas.md)
-32. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+32. [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
+33. [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
+34. [Anexos de decision y gobierno interno](./tutorial/34-anexos-gobierno-interno.md)
+35. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -138,6 +141,9 @@ El proyecto seguira un formato practico y gradual:
 - [Cuadro comparativo de tecnologias y niveles de confianza](./tutorial/29-tecnologias-y-confianza.md)
 - [Errores frecuentes de implantacion](./tutorial/30-errores-frecuentes-implantacion.md)
 - [Buenas practicas para empresa y Administracion](./tutorial/31-buenas-practicas.md)
+- [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
+- [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
+- [Anexos de decision y gobierno interno](./tutorial/34-anexos-gobierno-interno.md)
 
 - European Digital Identity Wallet
 - reutilizacion de credenciales
@@ -154,7 +160,7 @@ Este material puede ser util para:
 - equipos de transformacion digital
 - estudiantes e investigadores
 
-## Metodologia de trabajo
+## Documentacion del proyecto
 
 El repositorio se apoyara en tres documentos principales:
 
@@ -162,9 +168,11 @@ El repositorio se apoyara en tres documentos principales:
 - `CHANGELOG.md`: registro de cambios relevantes del contenido
 - `BITACORA.md`: seguimiento del trabajo, decisiones y proximos pasos
 
-## Estado actual
+El seguimiento del desarrollo del proyecto se mantiene preferentemente en `BITACORA.md` y `CHANGELOG.md`, para que este `README.md` se centre en la vision general y en el acceso al contenido.
 
-El proyecto ya cuenta con una base editorial y con varias piezas de contenido inicial dentro de la carpeta `tutorial`. En este momento, el repositorio cubre:
+## Alcance actual
+
+El proyecto ya cuenta con una base editorial y con varias piezas de contenido dentro de la carpeta `tutorial`. Actualmente cubre:
 
 - una introduccion explicativa al reglamento eIDAS
 - un glosario basico de conceptos
@@ -195,22 +203,10 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido in
 - un cuadro comparativo de tecnologias y niveles de confianza
 - una seccion sobre errores frecuentes de implantacion
 - una mini guia de buenas practicas
+- un glosario de abreviaturas
+- varios casos practicos paso a paso
+- orientaciones de gobierno interno
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
-
-## Proximos temas a desarrollar
-
-- bibliografia ampliada por seccion
-- glosario de abreviaturas
-- casos practicos completos paso a paso
-- anexos de decision y gobierno interno
-
-## Proxima iteracion recomendada
-
-Como siguiente paso, conviene desarrollar un bloque complementario sobre otros servicios de confianza:
-
-1. glosario de abreviaturas
-2. casos practicos completos paso a paso
-3. anexos de decision y gobierno interno
 
 ## Referencias iniciales
 

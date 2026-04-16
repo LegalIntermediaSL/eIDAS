@@ -44,3 +44,5 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar checklist, cuadro de riesgo y plantillas orientativas al indice
 - redaccion de las secciones `tutorial/29-tecnologias-y-confianza.md`, `tutorial/30-errores-frecuentes-implantacion.md` y `tutorial/31-buenas-practicas.md`
 - actualizacion del `README.md` para incorporar comparativa de tecnologias, errores frecuentes y buenas practicas al indice
+- redaccion de las secciones `tutorial/32-glosario-abreviaturas.md`, `tutorial/33-casos-paso-a-paso.md` y `tutorial/34-anexos-gobierno-interno.md`
+- reorganizacion del `README.md` para dejar el seguimiento del desarrollo del proyecto en `BITACORA.md` y `CHANGELOG.md`

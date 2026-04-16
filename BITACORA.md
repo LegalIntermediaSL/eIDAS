@@ -49,6 +49,10 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redacto un cuadro comparativo de tecnologias y niveles de confianza
 - se anadio una seccion sobre errores frecuentes de implantacion
 - se incorporo una mini guia de buenas practicas para empresa y Administracion
+- se creo un glosario de abreviaturas
+- se redactaron casos practicos paso a paso
+- se incorporaron anexos de decision y gobierno interno
+- se limpio el `README.md` para dejar el seguimiento del proyecto principalmente en `BITACORA.md` y `CHANGELOG.md`
 
 ### Decisiones tomadas
 
@@ -69,6 +73,6 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 ### Siguientes pasos sugeridos
 
 1. revisar en una siguiente pasada la consistencia terminologica global del tutorial
-2. crear un glosario de abreviaturas
-3. desarrollar casos practicos completos paso a paso
-4. ampliar la bibliografia y las fuentes por seccion
+2. ampliar la bibliografia y las fuentes por seccion
+3. desarrollar anexos mas detallados de gobierno y custodia de evidencias
+4. valorar la incorporacion de casos documentales mas extensos
