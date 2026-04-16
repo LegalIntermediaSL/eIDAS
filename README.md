@@ -2,6 +2,13 @@
 
 Proyecto introductorio y progresivo sobre el reglamento eIDAS de la Union Europea, pensado como base para documentacion, materiales didacticos y futuras ampliaciones sobre identidad digital, confianza electronica y servicios cualificados.
 
+## Navegacion por idioma
+
+- Edicion en espanol: [LegalIntermediaSL/eIDAS](https://github.com/LegalIntermediaSL/eIDAS)
+- English edition: [LegalIntermediaSL/eIDAS-en](https://github.com/LegalIntermediaSL/eIDAS-en)
+
+Nota: las distintas ediciones por idioma pueden no estar perfectamente sincronizadas en estructura, redaccion o fecha de actualizacion.
+
 ## Nota importante
 
 Nota: La informacion contenida en este proyecto de difusion didactico puede contener errores, inexactitudes o quedar obsoleta por cambios legislativos o en el tiempo. Se han utilizado asistentes digitales para confeccionarla. Se presenta para su uso tal como es. La empresa Legal Intermedia S.L. no se responsabiliza sobre el uso de esta informacion aqui presente y cuyo fin es exclusivamente didactico y divulgativo.

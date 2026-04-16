@@ -64,3 +64,4 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - redaccion de las secciones `tutorial/50-espana-marco-nacional.md` y `tutorial/51-espana-supervision-tsl.md`
 - incorporacion de diagramas Mermaid adicionales en capitulos visuales y probatorios
 - actualizacion del `README.md` para incorporar la guia rapida y el bloque especifico sobre Espana
+- actualizacion del `README.md` para incorporar navegacion entre la edicion en espanol y la edicion en ingles

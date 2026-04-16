@@ -76,6 +76,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se creo una guia rapida inicial para facilitar la entrada al tutorial segun el perfil del lector
 - se incorporo un bloque especifico sobre Espana, marco nacional, supervision y TSL
 - se reforzaron varios capitulos con diagramas Mermaid para mejorar la lectura visual
+- se anadio al `README.md` un bloque de navegacion entre la edicion en espanol y la futura edicion en ingles del proyecto
 
 ### Decisiones tomadas
 
