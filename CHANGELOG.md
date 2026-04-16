@@ -54,3 +54,4 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar gobierno interno detallado, bibliografia sectorial y criterios terminologicos
 - redaccion de las secciones `tutorial/44-consistencia-del-proyecto.md`, `tutorial/45-tablas-por-capitulo.md`, `tutorial/46-custodia-operativa.md` y `tutorial/47-cuadro-decision-avanzado.md`
 - actualizacion del `README.md` para incorporar consistencia global, tablas por bloques, custodia operativa y decision avanzada
+- revision editorial del `README.md` para compactar la portada, reagrupar enlaces y dejar el seguimiento del proyecto mejor separado de la documentacion principal

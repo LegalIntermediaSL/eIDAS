@@ -66,6 +66,8 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se incorporaron tablas-resumen por bloques tematicos
 - se desarrollo una capa mas operativa de custodia de evidencias
 - se anadio un cuadro de decision avanzado
+- se reviso el `README.md` para compactar su estructura, reagrupar enlaces y reducir contenido propio de bitacora
+- se verificaron los enlaces internos del `README.md`
 
 ### Decisiones tomadas
 

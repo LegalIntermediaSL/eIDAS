@@ -6,59 +6,6 @@ Proyecto introductorio y progresivo sobre el reglamento eIDAS de la Union Europe
 
 Nota: La informacion contenida en este proyecto de difusion didactico puede contener errores, inexactitudes o quedar obsoleta por cambios legislativos o en el tiempo. Se han utilizado asistentes digitales para confeccionarla. Se presenta para su uso tal como es. La empresa Legal Intermedia S.L. no se responsabiliza sobre el uso de esta informacion aqui presente y cuyo fin es exclusivamente didactico y divulgativo.
 
-## Indice actual del tutorial
-
-Las secciones desarrolladas hasta ahora son:
-
-1. [Que es el reglamento eIDAS](./tutorial/01-reglamento-eidas.md)
-2. [Glosario basico de terminos eIDAS](./tutorial/02-glosario-eidas.md)
-3. [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
-4. [Firma electronica simple, avanzada y cualificada](./tutorial/04-firma-electronica.md)
-5. [Certificados cualificados](./tutorial/05-certificados-cualificados.md)
-6. [Sellos electronicos](./tutorial/06-sellos-electronicos.md)
-7. [Sellos de tiempo](./tutorial/07-sellos-de-tiempo.md)
-8. [Entrega electronica certificada](./tutorial/08-entrega-electronica-certificada.md)
-9. [Servicios de confianza cualificados](./tutorial/09-servicios-confianza-cualificados.md)
-10. [Casos de uso reales](./tutorial/10-casos-de-uso.md)
-11. [eIDAS 2.0 y la Cartera Europea de Identidad Digital](./tutorial/11-eidas-2.md)
-12. [Actores institucionales y supervisores](./tutorial/12-actores-institucionales.md)
-13. [La Cartera Europea de Identidad Digital](./tutorial/13-wallet-europea.md)
-14. [Glosario avanzado de eIDAS 2.0](./tutorial/14-glosario-eidas-2-avanzado.md)
-15. [Comparativa entre usos empresariales y administrativos](./tutorial/15-comparativa-empresa-administracion.md)
-16. [Bibliografia y fuentes](./tutorial/16-bibliografia-y-fuentes.md)
-17. [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
-18. [Preguntas frecuentes sobre eIDAS](./tutorial/18-faq.md)
-19. [Cuadro comparativo entre prestadores cualificados y no cualificados](./tutorial/19-cuadro-prestadores.md)
-20. [Cronologia resumida de eIDAS y eIDAS 2.0](./tutorial/20-cronologia-eidas.md)
-21. [Autenticacion de sitios web](./tutorial/21-autenticacion-sitios-web.md)
-22. [Conservacion y validacion](./tutorial/22-conservacion-y-validacion.md)
-23. [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
-24. [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
-25. [Itinerarios de adopcion para empresa](./tutorial/25-itinerarios-adopcion-empresa.md)
-26. [Checklist de implantacion](./tutorial/26-checklist-implantacion.md)
-27. [Cuadro de decision por nivel de riesgo](./tutorial/27-cuadro-decision-riesgo.md)
-28. [Ejemplos documentales y plantillas orientativas](./tutorial/28-plantillas-orientativas.md)
-29. [Cuadro comparativo de tecnologias y niveles de confianza](./tutorial/29-tecnologias-y-confianza.md)
-30. [Errores frecuentes de implantacion](./tutorial/30-errores-frecuentes-implantacion.md)
-31. [Buenas practicas para empresa y Administracion](./tutorial/31-buenas-practicas.md)
-32. [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
-33. [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
-34. [Anexos de decision y gobierno interno](./tutorial/34-anexos-gobierno-interno.md)
-35. [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
-36. [Custodia y gestion de evidencias](./tutorial/36-custodia-evidencias.md)
-37. [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
-38. [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
-39. [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
-40. [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
-41. [Gobierno interno y custodia detallada de evidencias](./tutorial/41-gobierno-custodia-detallado.md)
-42. [Bibliografia sectorial y de implementacion](./tutorial/42-bibliografia-sectorial.md)
-43. [Criterios terminologicos del proyecto](./tutorial/43-criterios-terminologicos.md)
-44. [Consistencia global del proyecto](./tutorial/44-consistencia-del-proyecto.md)
-45. [Tablas-resumen por bloques tematicos](./tutorial/45-tablas-por-capitulo.md)
-46. [Custodia operativa de evidencias](./tutorial/46-custodia-operativa.md)
-47. [Cuadro de decision avanzado](./tutorial/47-cuadro-decision-avanzado.md)
-48. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
-
 ## Objetivo
 
 Este repositorio nace para construir un tutorial claro sobre:
@@ -71,110 +18,82 @@ Este repositorio nace para construir un tutorial claro sobre:
 
 La idea es que el contenido sea comprensible para perfiles juridicos, tecnicos y de negocio.
 
-## Enfoque del tutorial
+## Guia de lectura
 
-El proyecto seguira un formato practico y gradual:
+Para facilitar la navegacion, el tutorial se organiza de manera tematica:
 
-1. contexto general del reglamento
-2. conceptos basicos y vocabulario esencial
-3. actores implicados
-4. servicios de confianza y casos de uso
-5. marco de cumplimiento
-6. evolucion hacia eIDAS 2.0
-
-## Estructura del contenido
-
-### 1. Introduccion a eIDAS
+### 1. Fundamentos
 
 - [Que es el reglamento eIDAS](./tutorial/01-reglamento-eidas.md)
-
-- origen del reglamento
-- ambito territorial
-- relacion con el mercado unico digital
-- objetivos de interoperabilidad y seguridad juridica
-
-### 2. Conceptos fundamentales
-
 - [Glosario basico de terminos eIDAS](./tutorial/02-glosario-eidas.md)
+- [Cronologia resumida de eIDAS y eIDAS 2.0](./tutorial/20-cronologia-eidas.md)
+- [eIDAS 2.0 y la Cartera Europea de Identidad Digital](./tutorial/11-eidas-2.md)
 
-- identificacion electronica
-- autenticacion
-- firma electronica
-- sello electronico
-- certificados cualificados
-- prestadores cualificados de servicios de confianza
+### 2. Servicios de confianza
 
-### 3. Servicios de confianza
-
+- [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
 - [Firma electronica simple, avanzada y cualificada](./tutorial/04-firma-electronica.md)
 - [Certificados cualificados](./tutorial/05-certificados-cualificados.md)
 - [Sellos electronicos](./tutorial/06-sellos-electronicos.md)
 - [Sellos de tiempo](./tutorial/07-sellos-de-tiempo.md)
 - [Entrega electronica certificada](./tutorial/08-entrega-electronica-certificada.md)
 - [Servicios de confianza cualificados](./tutorial/09-servicios-confianza-cualificados.md)
-
-- firma electronica simple, avanzada y cualificada
-- sellos electronicos
-- sellos de tiempo
-- servicios de entrega electronica certificada
-- autenticacion de sitios web
-- conservacion y validacion
-
-### 4. Actores y ecosistema
-
-- [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
-- [Actores institucionales y supervisores](./tutorial/12-actores-institucionales.md)
-- [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
-
-- ciudadanos
-- empresas
-- administraciones publicas
-- prestadores de servicios de confianza
-- organismos supervisores
-
-### 5. eIDAS 2.0
-
-- [Casos de uso reales](./tutorial/10-casos-de-uso.md)
-- [eIDAS 2.0 y la Cartera Europea de Identidad Digital](./tutorial/11-eidas-2.md)
-- [La Cartera Europea de Identidad Digital](./tutorial/13-wallet-europea.md)
-- [Glosario avanzado de eIDAS 2.0](./tutorial/14-glosario-eidas-2-avanzado.md)
-- [Comparativa entre usos empresariales y administrativos](./tutorial/15-comparativa-empresa-administracion.md)
-- [Bibliografia y fuentes](./tutorial/16-bibliografia-y-fuentes.md)
-- [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
-- [Preguntas frecuentes sobre eIDAS](./tutorial/18-faq.md)
-- [Cuadro comparativo entre prestadores cualificados y no cualificados](./tutorial/19-cuadro-prestadores.md)
 - [Autenticacion de sitios web](./tutorial/21-autenticacion-sitios-web.md)
 - [Conservacion y validacion](./tutorial/22-conservacion-y-validacion.md)
-- [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
+
+### 3. Actores y ecosistema
+
+- [Actores institucionales y supervisores](./tutorial/12-actores-institucionales.md)
+- [Cuadro comparativo entre prestadores cualificados y no cualificados](./tutorial/19-cuadro-prestadores.md)
+- [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
 - [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
+
+### 4. Wallet y nuevo marco europeo
+
+- [La Cartera Europea de Identidad Digital](./tutorial/13-wallet-europea.md)
+- [Glosario avanzado de eIDAS 2.0](./tutorial/14-glosario-eidas-2-avanzado.md)
+- [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
+
+### 5. Casos de uso
+
+- [Casos de uso reales](./tutorial/10-casos-de-uso.md)
+- [Comparativa entre usos empresariales y administrativos](./tutorial/15-comparativa-empresa-administracion.md)
+- [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
+- [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
+- [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
+- [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
+
+### 6. Implantacion y gobierno
+
 - [Itinerarios de adopcion para empresa](./tutorial/25-itinerarios-adopcion-empresa.md)
 - [Checklist de implantacion](./tutorial/26-checklist-implantacion.md)
 - [Cuadro de decision por nivel de riesgo](./tutorial/27-cuadro-decision-riesgo.md)
+- [Cuadro de decision avanzado](./tutorial/47-cuadro-decision-avanzado.md)
 - [Ejemplos documentales y plantillas orientativas](./tutorial/28-plantillas-orientativas.md)
 - [Cuadro comparativo de tecnologias y niveles de confianza](./tutorial/29-tecnologias-y-confianza.md)
 - [Errores frecuentes de implantacion](./tutorial/30-errores-frecuentes-implantacion.md)
 - [Buenas practicas para empresa y Administracion](./tutorial/31-buenas-practicas.md)
-- [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
-- [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
 - [Anexos de decision y gobierno interno](./tutorial/34-anexos-gobierno-interno.md)
-- [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
 - [Custodia y gestion de evidencias](./tutorial/36-custodia-evidencias.md)
-- [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
-- [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
 - [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
-- [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
 - [Gobierno interno y custodia detallada de evidencias](./tutorial/41-gobierno-custodia-detallado.md)
+- [Custodia operativa de evidencias](./tutorial/46-custodia-operativa.md)
+
+### 7. Material de apoyo
+
+- [Bibliografia y fuentes](./tutorial/16-bibliografia-y-fuentes.md)
+- [Preguntas frecuentes sobre eIDAS](./tutorial/18-faq.md)
+- [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
+- [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
+- [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
 - [Bibliografia sectorial y de implementacion](./tutorial/42-bibliografia-sectorial.md)
 - [Criterios terminologicos del proyecto](./tutorial/43-criterios-terminologicos.md)
 - [Consistencia global del proyecto](./tutorial/44-consistencia-del-proyecto.md)
 - [Tablas-resumen por bloques tematicos](./tutorial/45-tablas-por-capitulo.md)
-- [Custodia operativa de evidencias](./tutorial/46-custodia-operativa.md)
-- [Cuadro de decision avanzado](./tutorial/47-cuadro-decision-avanzado.md)
 
-- European Digital Identity Wallet
-- reutilizacion de credenciales
-- nuevas oportunidades para sector publico y privado
-- retos de implementacion, gobernanza y adopcion
+### 8. Ficha de empresa
+
+- [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Publico objetivo
 
@@ -200,51 +119,13 @@ El seguimiento del desarrollo del proyecto se mantiene preferentemente en `BITAC
 
 El proyecto ya cuenta con una base editorial y con varias piezas de contenido dentro de la carpeta `tutorial`. Actualmente cubre:
 
-- una introduccion explicativa al reglamento eIDAS
-- un glosario basico de conceptos
-- una seccion especifica sobre prestadores cualificados y no cualificados
-- una comparativa entre firma electronica simple, avanzada y cualificada
-- una explicacion especifica sobre certificados cualificados
-- una introduccion a sellos electronicos, sellos de tiempo y entrega electronica certificada
-- una vision general de los servicios de confianza cualificados
-- una seccion de casos de uso reales
-- una introduccion actualizada a eIDAS 2.0
-- un mapa basico de actores institucionales y supervisores
-- una seccion especifica sobre la wallet europea
-- un glosario avanzado de eIDAS 2.0
-- una comparativa entre usos empresariales y administrativos
-- una seccion de bibliografia y fuentes
-- un mapa conceptual de relaciones entre firma, sello, certificado y wallet
-- una FAQ inicial del proyecto
-- un cuadro comparativo entre prestadores cualificados y no cualificados
-- una cronologia resumida del desarrollo de eIDAS y eIDAS 2.0
-- una introduccion a la autenticacion de sitios web
-- una seccion sobre conservacion y validacion
-- varios casos practicos sectoriales
-- un esquema visual del ecosistema eIDAS
-- una guia inicial de adopcion para empresa
-- una checklist de implantacion
-- un cuadro orientativo de decision por riesgo
-- ejemplos documentales y plantillas basicas
-- un cuadro comparativo de tecnologias y niveles de confianza
-- una seccion sobre errores frecuentes de implantacion
-- una mini guia de buenas practicas
-- un glosario de abreviaturas
-- varios casos practicos paso a paso
-- orientaciones de gobierno interno
-- una bibliografia ampliada
-- una seccion especifica sobre custodia de evidencias
-- casos documentales mas extensos
-- tablas-resumen de varias materias
-- una ampliacion de custodia avanzada
-- casos sectoriales ampliados
-- un bloque de gobierno interno mas detallado
-- una bibliografia sectorial complementaria
-- un documento de criterios terminologicos
-- una nota de consistencia global del proyecto
-- tablas-resumen adicionales por bloques
-- una seccion de custodia operativa
-- un cuadro de decision avanzado
+- fundamentos normativos y glosarios
+- servicios de confianza y sus diferencias
+- actores, prestadores y listas de confianza
+- wallet europea y evolucion hacia eIDAS 2.0
+- casos de uso, comparativas y preguntas frecuentes
+- implantacion, gobierno interno y custodia de evidencias
+- tablas-resumen, mapas conceptuales y bibliografia de apoyo
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Referencias iniciales
