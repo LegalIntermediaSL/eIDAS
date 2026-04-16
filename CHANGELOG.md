@@ -34,3 +34,9 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar servicios cualificados, casos de uso y eIDAS 2.0 al indice del tutorial
 - redaccion de las secciones `tutorial/12-actores-institucionales.md`, `tutorial/13-wallet-europea.md` y `tutorial/14-glosario-eidas-2-avanzado.md`
 - actualizacion del `README.md` para incorporar actores, wallet y glosario avanzado al indice del tutorial
+- redaccion de las secciones `tutorial/15-comparativa-empresa-administracion.md`, `tutorial/16-bibliografia-y-fuentes.md`, `tutorial/17-mapa-relaciones.md` y `tutorial/18-faq.md`
+- actualizacion del `README.md` para incorporar comparativas, bibliografia, mapa conceptual y FAQ al indice del tutorial
+- redaccion de las secciones `tutorial/19-cuadro-prestadores.md`, `tutorial/20-cronologia-eidas.md`, `tutorial/21-autenticacion-sitios-web.md` y `tutorial/22-conservacion-y-validacion.md`
+- actualizacion del `README.md` para incorporar comparativas de prestadores, cronologia y nuevos bloques tematicos al indice
+- redaccion de las secciones `tutorial/23-casos-sectoriales.md`, `tutorial/24-ecosistema-visual.md` y `tutorial/25-itinerarios-adopcion-empresa.md`
+- actualizacion del `README.md` para incorporar casos sectoriales, esquema visual e itinerarios de adopcion al indice

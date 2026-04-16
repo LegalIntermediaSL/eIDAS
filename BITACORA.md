@@ -32,6 +32,17 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redacto un mapa basico de actores institucionales y supervisores
 - se creo una seccion especifica sobre la wallet europea
 - se anadio un glosario avanzado de eIDAS 2.0
+- se redacto una comparativa entre usos empresariales y administrativos
+- se creo una seccion de bibliografia y fuentes
+- se anadio un mapa conceptual de relaciones entre firma, sello, certificado y wallet
+- se incorporo una FAQ inicial del proyecto
+- se redacto un cuadro comparativo entre prestadores cualificados y no cualificados
+- se creo una cronologia resumida de eIDAS y eIDAS 2.0
+- se incorporo un apartado sobre autenticacion de sitios web
+- se anadio una seccion sobre conservacion y validacion
+- se redactaron casos practicos sectoriales
+- se incorporo un esquema visual del ecosistema eIDAS
+- se anadio una guia inicial de adopcion para empresa
 
 ### Decisiones tomadas
 
@@ -51,7 +62,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 
 ### Siguientes pasos sugeridos
 
-1. desarrollar comparativas entre usos empresariales y administrativos
-2. revisar en una siguiente pasada la consistencia terminologica global del tutorial
-3. valorar la incorporacion de bibliografia y fuentes por capitulo
-4. crear un mapa de relaciones entre firma, sello, certificado y wallet
+1. revisar en una siguiente pasada la consistencia terminologica global del tutorial
+2. crear un checklist de implantacion
+3. desarrollar un cuadro de decision por nivel de riesgo
+4. ampliar la bibliografia y las fuentes por seccion

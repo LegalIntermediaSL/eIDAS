@@ -24,7 +24,18 @@ Las secciones desarrolladas hasta ahora son:
 12. [Actores institucionales y supervisores](./tutorial/12-actores-institucionales.md)
 13. [La Cartera Europea de Identidad Digital](./tutorial/13-wallet-europea.md)
 14. [Glosario avanzado de eIDAS 2.0](./tutorial/14-glosario-eidas-2-avanzado.md)
-15. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+15. [Comparativa entre usos empresariales y administrativos](./tutorial/15-comparativa-empresa-administracion.md)
+16. [Bibliografia y fuentes](./tutorial/16-bibliografia-y-fuentes.md)
+17. [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
+18. [Preguntas frecuentes sobre eIDAS](./tutorial/18-faq.md)
+19. [Cuadro comparativo entre prestadores cualificados y no cualificados](./tutorial/19-cuadro-prestadores.md)
+20. [Cronologia resumida de eIDAS y eIDAS 2.0](./tutorial/20-cronologia-eidas.md)
+21. [Autenticacion de sitios web](./tutorial/21-autenticacion-sitios-web.md)
+22. [Conservacion y validacion](./tutorial/22-conservacion-y-validacion.md)
+23. [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
+24. [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
+25. [Itinerarios de adopcion para empresa](./tutorial/25-itinerarios-adopcion-empresa.md)
+26. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -105,6 +116,16 @@ El proyecto seguira un formato practico y gradual:
 - [eIDAS 2.0 y la Cartera Europea de Identidad Digital](./tutorial/11-eidas-2.md)
 - [La Cartera Europea de Identidad Digital](./tutorial/13-wallet-europea.md)
 - [Glosario avanzado de eIDAS 2.0](./tutorial/14-glosario-eidas-2-avanzado.md)
+- [Comparativa entre usos empresariales y administrativos](./tutorial/15-comparativa-empresa-administracion.md)
+- [Bibliografia y fuentes](./tutorial/16-bibliografia-y-fuentes.md)
+- [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
+- [Preguntas frecuentes sobre eIDAS](./tutorial/18-faq.md)
+- [Cuadro comparativo entre prestadores cualificados y no cualificados](./tutorial/19-cuadro-prestadores.md)
+- [Autenticacion de sitios web](./tutorial/21-autenticacion-sitios-web.md)
+- [Conservacion y validacion](./tutorial/22-conservacion-y-validacion.md)
+- [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
+- [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
+- [Itinerarios de adopcion para empresa](./tutorial/25-itinerarios-adopcion-empresa.md)
 
 - European Digital Identity Wallet
 - reutilizacion de credenciales
@@ -145,22 +166,33 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido in
 - un mapa basico de actores institucionales y supervisores
 - una seccion especifica sobre la wallet europea
 - un glosario avanzado de eIDAS 2.0
+- una comparativa entre usos empresariales y administrativos
+- una seccion de bibliografia y fuentes
+- un mapa conceptual de relaciones entre firma, sello, certificado y wallet
+- una FAQ inicial del proyecto
+- un cuadro comparativo entre prestadores cualificados y no cualificados
+- una cronologia resumida del desarrollo de eIDAS y eIDAS 2.0
+- una introduccion a la autenticacion de sitios web
+- una seccion sobre conservacion y validacion
+- varios casos practicos sectoriales
+- un esquema visual del ecosistema eIDAS
+- una guia inicial de adopcion para empresa
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Proximos temas a desarrollar
 
-- comparativas entre usos empresariales y administrativos
-- bibliografia y fuentes por capitulo
-- cuadro comparativo entre prestadores cualificados y no cualificados
-- mapa de relaciones entre firma, sello, certificado y wallet
+- bibliografia ampliada por seccion
+- checklist de implantacion
+- cuadro de decision por nivel de riesgo
+- ejemplos documentales y plantillas orientativas
 
 ## Proxima iteracion recomendada
 
 Como siguiente paso, conviene desarrollar un bloque complementario sobre otros servicios de confianza:
 
-1. comparativas entre usos empresariales y administrativos
-2. bibliografia y fuentes por capitulo
-3. mapa de relaciones entre firma, sello, certificado y wallet
+1. checklist de implantacion
+2. cuadro de decision por nivel de riesgo
+3. ejemplos documentales y plantillas orientativas
 
 ## Referencias iniciales
 
