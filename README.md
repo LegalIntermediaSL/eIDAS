@@ -50,7 +50,14 @@ Las secciones desarrolladas hasta ahora son:
 38. [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
 39. [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
 40. [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
-41. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+41. [Gobierno interno y custodia detallada de evidencias](./tutorial/41-gobierno-custodia-detallado.md)
+42. [Bibliografia sectorial y de implementacion](./tutorial/42-bibliografia-sectorial.md)
+43. [Criterios terminologicos del proyecto](./tutorial/43-criterios-terminologicos.md)
+44. [Consistencia global del proyecto](./tutorial/44-consistencia-del-proyecto.md)
+45. [Tablas-resumen por bloques tematicos](./tutorial/45-tablas-por-capitulo.md)
+46. [Custodia operativa de evidencias](./tutorial/46-custodia-operativa.md)
+47. [Cuadro de decision avanzado](./tutorial/47-cuadro-decision-avanzado.md)
+48. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -156,6 +163,13 @@ El proyecto seguira un formato practico y gradual:
 - [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
 - [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
 - [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
+- [Gobierno interno y custodia detallada de evidencias](./tutorial/41-gobierno-custodia-detallado.md)
+- [Bibliografia sectorial y de implementacion](./tutorial/42-bibliografia-sectorial.md)
+- [Criterios terminologicos del proyecto](./tutorial/43-criterios-terminologicos.md)
+- [Consistencia global del proyecto](./tutorial/44-consistencia-del-proyecto.md)
+- [Tablas-resumen por bloques tematicos](./tutorial/45-tablas-por-capitulo.md)
+- [Custodia operativa de evidencias](./tutorial/46-custodia-operativa.md)
+- [Cuadro de decision avanzado](./tutorial/47-cuadro-decision-avanzado.md)
 
 - European Digital Identity Wallet
 - reutilizacion de credenciales
@@ -224,6 +238,13 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido de
 - tablas-resumen de varias materias
 - una ampliacion de custodia avanzada
 - casos sectoriales ampliados
+- un bloque de gobierno interno mas detallado
+- una bibliografia sectorial complementaria
+- un documento de criterios terminologicos
+- una nota de consistencia global del proyecto
+- tablas-resumen adicionales por bloques
+- una seccion de custodia operativa
+- un cuadro de decision avanzado
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Referencias iniciales

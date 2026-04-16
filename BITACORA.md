@@ -59,6 +59,13 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se anadieron tablas-resumen del tutorial
 - se amplio la parte de custodia avanzada y revisiones periodicas
 - se desarrollaron casos sectoriales avanzados
+- se amplio el bloque de gobierno interno y custodia detallada
+- se incorporo una bibliografia sectorial y de implementacion
+- se fijaron criterios terminologicos para mantener coherencia en el tutorial
+- se anadio una seccion de consistencia global del proyecto
+- se incorporaron tablas-resumen por bloques tematicos
+- se desarrollo una capa mas operativa de custodia de evidencias
+- se anadio un cuadro de decision avanzado
 
 ### Decisiones tomadas
 

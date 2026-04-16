@@ -50,3 +50,7 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar bibliografia ampliada, custodia de evidencias y casos documentales extensos
 - redaccion de las secciones `tutorial/38-tablas-resumen.md`, `tutorial/39-custodia-avanzada.md` y `tutorial/40-casos-sectoriales-avanzados.md`
 - actualizacion del `README.md` para incorporar tablas-resumen, custodia avanzada y casos sectoriales avanzados
+- redaccion de las secciones `tutorial/41-gobierno-custodia-detallado.md`, `tutorial/42-bibliografia-sectorial.md` y `tutorial/43-criterios-terminologicos.md`
+- actualizacion del `README.md` para incorporar gobierno interno detallado, bibliografia sectorial y criterios terminologicos
+- redaccion de las secciones `tutorial/44-consistencia-del-proyecto.md`, `tutorial/45-tablas-por-capitulo.md`, `tutorial/46-custodia-operativa.md` y `tutorial/47-cuadro-decision-avanzado.md`
+- actualizacion del `README.md` para incorporar consistencia global, tablas por bloques, custodia operativa y decision avanzada
