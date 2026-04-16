@@ -24,6 +24,8 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redacto una seccion empresarial basada en la informacion publica de su web oficial
 - se redacto una comparativa sobre firma electronica simple, avanzada y cualificada
 - se redacto una seccion especifica sobre certificados cualificados
+- se redactaron nuevas secciones sobre sellos electronicos, sellos de tiempo y entrega electronica certificada
+- se anadio un `.gitignore` para evitar la incorporacion accidental de archivos `.DS_Store`
 
 ### Decisiones tomadas
 
@@ -43,7 +45,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 
 ### Siguientes pasos sugeridos
 
-1. desarrollar un bloque sobre sellos electronicos y sellos de tiempo
-2. desarrollar un bloque sobre servicios de confianza cualificados
-3. incorporar referencias a casos de uso reales
-4. estudiar la futura incorporacion de un apartado especifico sobre eIDAS 2.0
+1. desarrollar un bloque sobre servicios de confianza cualificados
+2. incorporar referencias a casos de uso reales
+3. estudiar la futura incorporacion de un apartado especifico sobre eIDAS 2.0
+4. revisar en una siguiente pasada la consistencia terminologica global del tutorial

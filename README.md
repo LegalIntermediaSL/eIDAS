@@ -11,7 +11,10 @@ Las secciones desarrolladas hasta ahora son:
 3. [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
 4. [Firma electronica simple, avanzada y cualificada](./tutorial/04-firma-electronica.md)
 5. [Certificados cualificados](./tutorial/05-certificados-cualificados.md)
-6. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+6. [Sellos electronicos](./tutorial/06-sellos-electronicos.md)
+7. [Sellos de tiempo](./tutorial/07-sellos-de-tiempo.md)
+8. [Entrega electronica certificada](./tutorial/08-entrega-electronica-certificada.md)
+9. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -62,6 +65,9 @@ El proyecto seguira un formato practico y gradual:
 
 - [Firma electronica simple, avanzada y cualificada](./tutorial/04-firma-electronica.md)
 - [Certificados cualificados](./tutorial/05-certificados-cualificados.md)
+- [Sellos electronicos](./tutorial/06-sellos-electronicos.md)
+- [Sellos de tiempo](./tutorial/07-sellos-de-tiempo.md)
+- [Entrega electronica certificada](./tutorial/08-entrega-electronica-certificada.md)
 
 - firma electronica simple, avanzada y cualificada
 - sellos electronicos
@@ -115,6 +121,7 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido in
 - una seccion especifica sobre prestadores cualificados y no cualificados
 - una comparativa entre firma electronica simple, avanzada y cualificada
 - una explicacion especifica sobre certificados cualificados
+- una introduccion a sellos electronicos, sellos de tiempo y entrega electronica certificada
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Proximos temas a desarrollar
@@ -128,9 +135,9 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido in
 
 Como siguiente paso, conviene desarrollar un bloque complementario sobre otros servicios de confianza:
 
-1. sellos electronicos
-2. sellos de tiempo
-3. entrega electronica certificada
+1. servicios de confianza cualificados
+2. casos de uso reales en empresa y Administracion
+3. eIDAS 2.0
 
 ## Referencias iniciales
 

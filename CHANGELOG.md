@@ -27,3 +27,6 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar la nueva seccion
 - redaccion de la seccion sobre certificados cualificados en `tutorial/05-certificados-cualificados.md`
 - actualizacion del `README.md` para incorporar certificados cualificados al indice del tutorial
+- redaccion de las secciones `tutorial/06-sellos-electronicos.md`, `tutorial/07-sellos-de-tiempo.md` y `tutorial/08-entrega-electronica-certificada.md`
+- actualizacion del `README.md` para incorporar los nuevos servicios de confianza al indice del tutorial
+- incorporacion de `.gitignore` para excluir archivos `.DS_Store`
