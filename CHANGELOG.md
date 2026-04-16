@@ -55,3 +55,8 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - redaccion de las secciones `tutorial/44-consistencia-del-proyecto.md`, `tutorial/45-tablas-por-capitulo.md`, `tutorial/46-custodia-operativa.md` y `tutorial/47-cuadro-decision-avanzado.md`
 - actualizacion del `README.md` para incorporar consistencia global, tablas por bloques, custodia operativa y decision avanzada
 - revision editorial del `README.md` para compactar la portada, reagrupar enlaces y dejar el seguimiento del proyecto mejor separado de la documentacion principal
+- nueva pasada editorial sobre `README.md`, `BITACORA.md`, `CHANGELOG.md` y capitulos clave para reducir duplicidades menores y homogeneizar terminologia
+- aclaracion del uso de `wallet europea` como forma corta de `Cartera Europea de Identidad Digital`
+- aclaracion del uso de `lista de confianza (TSL)` como formula preferente en primeras menciones
+- redaccion de las secciones `tutorial/48-interoperabilidad-transfronteriza.md` y `tutorial/49-cadena-evidencia-riesgo-probatorio.md`
+- actualizacion del `README.md` para incorporar interoperabilidad y riesgo probatorio en la guia de lectura y en el alcance actual

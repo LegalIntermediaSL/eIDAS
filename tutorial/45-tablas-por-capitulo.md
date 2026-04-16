@@ -10,7 +10,7 @@ Esta seccion reagrupa comparativas ya tratadas en el tutorial, pero ordenadas po
 | --- | --- | --- |
 | Identificacion electronica | Identificar al sujeto | No equivale por si sola a firma |
 | Autenticacion | Verificar que el sujeto es quien dice ser | Puede apoyar acceso o uso de servicios |
-| Wallet europea | Gestionar identidad y credenciales | Es parte del nuevo marco eIDAS 2.0 |
+| Cartera Europea de Identidad Digital (wallet europea) | Gestionar identidad y credenciales | Es parte del nuevo marco eIDAS 2.0 |
 
 ## Bloque 2. Evidencia documental
 
@@ -28,7 +28,7 @@ Esta seccion reagrupa comparativas ya tratadas en el tutorial, pero ordenadas po
 | Certificado | Vincular datos de verificacion |
 | Certificado cualificado | Base reforzada dentro de eIDAS |
 | Prestador | Prestar el servicio |
-| TSL | Verificar condicion de cualificado |
+| Lista de confianza (TSL) | Verificar condicion de cualificado |
 
 ## Bloque 4. Implantacion organizativa
 

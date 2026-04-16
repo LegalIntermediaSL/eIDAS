@@ -35,7 +35,11 @@ La palabra `cualificado` se usa como categoria juridica concreta y no como elogi
 
 Se utiliza como forma corta de `Cartera Europea de Identidad Digital` o `EUDI Wallet`, siempre entendida como parte del nuevo marco europeo de identidad digital.
 
-## 7. Criterio general del tutorial
+## 7. Uso de "lista de confianza" y "TSL"
+
+Se admite el uso alterno de `lista de confianza` y `TSL`, pero se procura que la primera mension completa sea `lista de confianza (TSL)` para facilitar la lectura a perfiles no tecnicos.
+
+## 8. Criterio general del tutorial
 
 El proyecto adopta un lenguaje:
 

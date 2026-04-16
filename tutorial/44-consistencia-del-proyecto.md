@@ -19,6 +19,8 @@ Esto es especialmente importante en expresiones como:
 - `prestador cualificado`
 - `transposicion en Espana`
 - `eIDAS 2.0`
+- `wallet europea`
+- `lista de confianza (TSL)`
 
 ## 2. Principio de coherencia tecnica
 

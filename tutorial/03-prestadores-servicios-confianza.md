@@ -84,7 +84,7 @@ La lista de confianza, conocida habitualmente como `TSL` por sus siglas en ingle
 
 ### Funcion de la TSL
 
-La TSL sirve para:
+La lista de confianza o `TSL` sirve para:
 
 - identificar que prestadores tienen condicion de cualificados
 - comprobar que servicios concretos son cualificados
@@ -112,6 +112,13 @@ Referencias oficiales:
 - Buscador europeo de listas de confianza: [Trusted List Browser](https://webgate.ec.europa.eu/tl-browser/)
 
 Estas herramientas permiten localizar prestadores y servicios cualificados de distintos Estados miembros.
+
+## Relacion con otras secciones del tutorial
+
+Este capitulo ofrece la vision institucional y de supervision. Para profundizar en el significado juridico de los servicios cualificados y en su uso practico, conviene completar la lectura con:
+
+- [Servicios de confianza cualificados](./09-servicios-confianza-cualificados.md)
+- [Cuadro comparativo entre prestadores cualificados y no cualificados](./19-cuadro-prestadores.md)
 
 ## Importante sobre la lista de prestadores
 

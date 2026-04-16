@@ -2,7 +2,7 @@
 
 ## Introduccion
 
-La `Cartera Europea de Identidad Digital`, conocida tambien como `European Digital Identity Wallet` o `EUDI Wallet`, es uno de los elementos mas visibles y transformadores de la nueva etapa del marco eIDAS.
+La `Cartera Europea de Identidad Digital`, conocida tambien como `European Digital Identity Wallet` o `EUDI Wallet`, es uno de los elementos mas visibles y transformadores de la nueva etapa del marco eIDAS. En el resto del tutorial tambien se usa la expresion corta `wallet europea` con ese mismo significado.
 
 Su importancia radica en que traslada la identidad digital europea desde un marco principalmente institucional y normativo a una herramienta de uso cotidiano para ciudadanos, residentes y organizaciones.
 
@@ -96,6 +96,7 @@ La wallet no es un proyecto separado del reglamento. Es una de las grandes concr
 Por eso esta seccion se relaciona directamente con:
 
 - [eIDAS 2.0 y la Cartera Europea de Identidad Digital](./11-eidas-2.md)
+- [Criterios terminologicos del proyecto](./43-criterios-terminologicos.md)
 
 ## Estado de despliegue
 

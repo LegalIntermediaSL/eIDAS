@@ -41,12 +41,13 @@ Para facilitar la navegacion, el tutorial se organiza de manera tematica:
 - [Autenticacion de sitios web](./tutorial/21-autenticacion-sitios-web.md)
 - [Conservacion y validacion](./tutorial/22-conservacion-y-validacion.md)
 
-### 3. Actores y ecosistema
+### 3. Actores y ecosistema de confianza
 
 - [Actores institucionales y supervisores](./tutorial/12-actores-institucionales.md)
 - [Cuadro comparativo entre prestadores cualificados y no cualificados](./tutorial/19-cuadro-prestadores.md)
 - [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
 - [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
+- [Interoperabilidad y reconocimiento transfronterizo](./tutorial/48-interoperabilidad-transfronteriza.md)
 
 ### 4. Wallet y nuevo marco europeo
 
@@ -78,13 +79,13 @@ Para facilitar la navegacion, el tutorial se organiza de manera tematica:
 - [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
 - [Gobierno interno y custodia detallada de evidencias](./tutorial/41-gobierno-custodia-detallado.md)
 - [Custodia operativa de evidencias](./tutorial/46-custodia-operativa.md)
+- [Cadena de evidencia y riesgo probatorio](./tutorial/49-cadena-evidencia-riesgo-probatorio.md)
 
 ### 7. Material de apoyo
 
 - [Bibliografia y fuentes](./tutorial/16-bibliografia-y-fuentes.md)
 - [Preguntas frecuentes sobre eIDAS](./tutorial/18-faq.md)
 - [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
-- [Mapa de relaciones entre firma, sello, certificado y wallet](./tutorial/17-mapa-relaciones.md)
 - [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
 - [Bibliografia sectorial y de implementacion](./tutorial/42-bibliografia-sectorial.md)
 - [Criterios terminologicos del proyecto](./tutorial/43-criterios-terminologicos.md)
@@ -122,11 +123,14 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido de
 - fundamentos normativos y glosarios
 - servicios de confianza y sus diferencias
 - actores, prestadores y listas de confianza
+- interoperabilidad y reconocimiento transfronterizo
 - wallet europea y evolucion hacia eIDAS 2.0
 - casos de uso, comparativas y preguntas frecuentes
 - implantacion, gobierno interno y custodia de evidencias
 - tablas-resumen, mapas conceptuales y bibliografia de apoyo
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
+
+Ademas del contenido explicativo, el proyecto ya incorpora documentos de sintesis y control editorial para mantener consistencia terminologica, trazabilidad y facilidad de consulta.
 
 ## Referencias iniciales
 

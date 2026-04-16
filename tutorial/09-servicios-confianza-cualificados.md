@@ -82,10 +82,11 @@ La cualificacion no descansa solo en la tecnologia utilizada, sino en el conjunt
 Por eso esta seccion se conecta directamente con:
 
 - [Prestadores de servicios de confianza](./03-prestadores-servicios-confianza.md)
+- [Cuadro comparativo entre prestadores cualificados y no cualificados](./19-cuadro-prestadores.md)
 
 ## Relacion con la lista de confianza
 
-La lista de confianza es un elemento central del sistema porque permite comprobar que un prestador y determinados servicios tienen la condicion de cualificados.
+La lista de confianza o `TSL` es un elemento central del sistema porque permite comprobar que un prestador y determinados servicios tienen la condicion de cualificados.
 
 Esto es especialmente relevante en situaciones donde se necesita verificar:
 
@@ -139,6 +140,8 @@ Para una empresa o una Administracion, la eleccion entre un servicio cualificado
 ## Resumen rapido
 
 Los servicios de confianza cualificados son el nivel reforzado del sistema eIDAS. Se prestan por prestadores cualificados, cumplen requisitos especiales y ofrecen una base mas robusta para seguridad juridica, prueba y reconocimiento europeo.
+
+Este capitulo no sustituye al analisis institucional de los prestadores, sino que lo complementa desde la perspectiva del valor juridico y probatorio del servicio.
 
 ## Siguiente lectura recomendada
 

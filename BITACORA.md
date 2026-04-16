@@ -68,6 +68,11 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se anadio un cuadro de decision avanzado
 - se reviso el `README.md` para compactar su estructura, reagrupar enlaces y reducir contenido propio de bitacora
 - se verificaron los enlaces internos del `README.md`
+- se realizo una pasada adicional de consistencia editorial y terminologica en `README.md` y en varios capitulos del tutorial
+- se eliminaron duplicidades menores del indice principal y se aclararon las relaciones entre capitulos proximos
+- se homogeneizo la primera mension de `wallet europea` y de `lista de confianza (TSL)` en capitulos clave
+- se anadio un capitulo especifico sobre interoperabilidad y reconocimiento transfronterizo dentro del ecosistema eIDAS
+- se incorporo un nuevo capitulo sobre cadena de evidencia y riesgo probatorio con enfoque practico
 
 ### Decisiones tomadas
 
@@ -87,7 +92,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 
 ### Siguientes pasos sugeridos
 
-1. revisar en una siguiente pasada la consistencia terminologica global del tutorial
+1. revisar en una siguiente pasada posibles fusiones entre capitulos muy proximos
 2. desarrollar anexos mas detallados de gobierno y custodia de evidencias
 3. ampliar aun mas la bibliografia por secciones concretas
-4. valorar la incorporacion de tablas-resumen por capitulo
+4. valorar una reorganizacion fisica por subcarpetas dentro de `tutorial`
