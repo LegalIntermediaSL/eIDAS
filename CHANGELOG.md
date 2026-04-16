@@ -40,3 +40,7 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar comparativas de prestadores, cronologia y nuevos bloques tematicos al indice
 - redaccion de las secciones `tutorial/23-casos-sectoriales.md`, `tutorial/24-ecosistema-visual.md` y `tutorial/25-itinerarios-adopcion-empresa.md`
 - actualizacion del `README.md` para incorporar casos sectoriales, esquema visual e itinerarios de adopcion al indice
+- redaccion de las secciones `tutorial/26-checklist-implantacion.md`, `tutorial/27-cuadro-decision-riesgo.md` y `tutorial/28-plantillas-orientativas.md`
+- actualizacion del `README.md` para incorporar checklist, cuadro de riesgo y plantillas orientativas al indice
+- redaccion de las secciones `tutorial/29-tecnologias-y-confianza.md`, `tutorial/30-errores-frecuentes-implantacion.md` y `tutorial/31-buenas-practicas.md`
+- actualizacion del `README.md` para incorporar comparativa de tecnologias, errores frecuentes y buenas practicas al indice

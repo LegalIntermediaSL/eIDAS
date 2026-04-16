@@ -35,7 +35,13 @@ Las secciones desarrolladas hasta ahora son:
 23. [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
 24. [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
 25. [Itinerarios de adopcion para empresa](./tutorial/25-itinerarios-adopcion-empresa.md)
-26. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+26. [Checklist de implantacion](./tutorial/26-checklist-implantacion.md)
+27. [Cuadro de decision por nivel de riesgo](./tutorial/27-cuadro-decision-riesgo.md)
+28. [Ejemplos documentales y plantillas orientativas](./tutorial/28-plantillas-orientativas.md)
+29. [Cuadro comparativo de tecnologias y niveles de confianza](./tutorial/29-tecnologias-y-confianza.md)
+30. [Errores frecuentes de implantacion](./tutorial/30-errores-frecuentes-implantacion.md)
+31. [Buenas practicas para empresa y Administracion](./tutorial/31-buenas-practicas.md)
+32. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -126,6 +132,12 @@ El proyecto seguira un formato practico y gradual:
 - [Casos practicos sectoriales](./tutorial/23-casos-sectoriales.md)
 - [Esquema visual del ecosistema eIDAS](./tutorial/24-ecosistema-visual.md)
 - [Itinerarios de adopcion para empresa](./tutorial/25-itinerarios-adopcion-empresa.md)
+- [Checklist de implantacion](./tutorial/26-checklist-implantacion.md)
+- [Cuadro de decision por nivel de riesgo](./tutorial/27-cuadro-decision-riesgo.md)
+- [Ejemplos documentales y plantillas orientativas](./tutorial/28-plantillas-orientativas.md)
+- [Cuadro comparativo de tecnologias y niveles de confianza](./tutorial/29-tecnologias-y-confianza.md)
+- [Errores frecuentes de implantacion](./tutorial/30-errores-frecuentes-implantacion.md)
+- [Buenas practicas para empresa y Administracion](./tutorial/31-buenas-practicas.md)
 
 - European Digital Identity Wallet
 - reutilizacion de credenciales
@@ -177,22 +189,28 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido in
 - varios casos practicos sectoriales
 - un esquema visual del ecosistema eIDAS
 - una guia inicial de adopcion para empresa
+- una checklist de implantacion
+- un cuadro orientativo de decision por riesgo
+- ejemplos documentales y plantillas basicas
+- un cuadro comparativo de tecnologias y niveles de confianza
+- una seccion sobre errores frecuentes de implantacion
+- una mini guia de buenas practicas
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Proximos temas a desarrollar
 
 - bibliografia ampliada por seccion
-- checklist de implantacion
-- cuadro de decision por nivel de riesgo
-- ejemplos documentales y plantillas orientativas
+- glosario de abreviaturas
+- casos practicos completos paso a paso
+- anexos de decision y gobierno interno
 
 ## Proxima iteracion recomendada
 
 Como siguiente paso, conviene desarrollar un bloque complementario sobre otros servicios de confianza:
 
-1. checklist de implantacion
-2. cuadro de decision por nivel de riesgo
-3. ejemplos documentales y plantillas orientativas
+1. glosario de abreviaturas
+2. casos practicos completos paso a paso
+3. anexos de decision y gobierno interno
 
 ## Referencias iniciales
 

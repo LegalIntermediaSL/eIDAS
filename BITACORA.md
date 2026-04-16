@@ -43,6 +43,12 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redactaron casos practicos sectoriales
 - se incorporo un esquema visual del ecosistema eIDAS
 - se anadio una guia inicial de adopcion para empresa
+- se creo una checklist de implantacion
+- se redacto un cuadro orientativo de decision por nivel de riesgo
+- se incorporaron ejemplos documentales y plantillas orientativas
+- se redacto un cuadro comparativo de tecnologias y niveles de confianza
+- se anadio una seccion sobre errores frecuentes de implantacion
+- se incorporo una mini guia de buenas practicas para empresa y Administracion
 
 ### Decisiones tomadas
 
@@ -63,6 +69,6 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 ### Siguientes pasos sugeridos
 
 1. revisar en una siguiente pasada la consistencia terminologica global del tutorial
-2. crear un checklist de implantacion
-3. desarrollar un cuadro de decision por nivel de riesgo
+2. crear un glosario de abreviaturas
+3. desarrollar casos practicos completos paso a paso
 4. ampliar la bibliografia y las fuentes por seccion
