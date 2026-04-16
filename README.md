@@ -107,7 +107,7 @@ Para facilitar la navegacion, el tutorial se organiza de manera tematica:
 
 - [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
-### 9. Espana
+### 9. España
 
 - [Marco nacional y contexto de Espana](./tutorial/50-espana-marco-nacional.md)
 - [Supervision, TSL y prestadores en Espana](./tutorial/51-espana-supervision-tsl.md)
