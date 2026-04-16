@@ -56,6 +56,9 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se amplio la bibliografia por bloques tematicos
 - se creo una seccion especifica sobre custodia y gestion de evidencias
 - se anadieron casos documentales mas extensos
+- se anadieron tablas-resumen del tutorial
+- se amplio la parte de custodia avanzada y revisiones periodicas
+- se desarrollaron casos sectoriales avanzados
 
 ### Decisiones tomadas
 

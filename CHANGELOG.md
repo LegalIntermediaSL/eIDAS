@@ -48,3 +48,5 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - reorganizacion del `README.md` para dejar el seguimiento del desarrollo del proyecto en `BITACORA.md` y `CHANGELOG.md`
 - redaccion de las secciones `tutorial/35-bibliografia-ampliada.md`, `tutorial/36-custodia-evidencias.md` y `tutorial/37-casos-documentales-extensos.md`
 - actualizacion del `README.md` para incorporar bibliografia ampliada, custodia de evidencias y casos documentales extensos
+- redaccion de las secciones `tutorial/38-tablas-resumen.md`, `tutorial/39-custodia-avanzada.md` y `tutorial/40-casos-sectoriales-avanzados.md`
+- actualizacion del `README.md` para incorporar tablas-resumen, custodia avanzada y casos sectoriales avanzados

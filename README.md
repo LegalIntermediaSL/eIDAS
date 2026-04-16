@@ -47,7 +47,10 @@ Las secciones desarrolladas hasta ahora son:
 35. [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
 36. [Custodia y gestion de evidencias](./tutorial/36-custodia-evidencias.md)
 37. [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
-38. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+38. [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
+39. [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
+40. [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
+41. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -150,6 +153,9 @@ El proyecto seguira un formato practico y gradual:
 - [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
 - [Custodia y gestion de evidencias](./tutorial/36-custodia-evidencias.md)
 - [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
+- [Tablas-resumen del tutorial](./tutorial/38-tablas-resumen.md)
+- [Custodia avanzada y revisiones periodicas](./tutorial/39-custodia-avanzada.md)
+- [Casos sectoriales avanzados](./tutorial/40-casos-sectoriales-avanzados.md)
 
 - European Digital Identity Wallet
 - reutilizacion de credenciales
@@ -215,6 +221,9 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido de
 - una bibliografia ampliada
 - una seccion especifica sobre custodia de evidencias
 - casos documentales mas extensos
+- tablas-resumen de varias materias
+- una ampliacion de custodia avanzada
+- casos sectoriales ampliados
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Referencias iniciales
