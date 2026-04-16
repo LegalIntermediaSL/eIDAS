@@ -9,6 +9,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 ### Trabajo realizado
 
 - se redefinio el `README.md` como portada editorial del tutorial
+- se actualizo `README.md` para convertirlo en indice operativo con enlaces a las secciones ya creadas
 - se creo `CHANGELOG.md` para dar trazabilidad a la evolucion del contenido
 - se creo `BITACORA.md` para dejar constancia del proceso de construccion
 - se propuso una estructura inicial del tutorial orientada a publico juridico, tecnico y de negocio
@@ -16,6 +17,11 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redacto un primer documento explicativo sobre el reglamento eIDAS
 - se incorporaron enlaces oficiales al texto europeo y a la Ley 6/2020 en Espana
 - se redacto un glosario inicial de terminos eIDAS para facilitar la lectura del tutorial
+- se redacto una nueva seccion sobre prestadores cualificados y no cualificados
+- se anadieron referencias oficiales para consultar la TSL espanola y las listas europeas de confianza
+- se sincronizo la documentacion base del proyecto para reflejar el contenido real ya publicado
+- se creo un subdirectorio especifico para incorporar una ficha de la empresa Legal Intermedia S.L.
+- se redacto una seccion empresarial basada en la informacion publica de su web oficial
 
 ### Decisiones tomadas
 
@@ -24,6 +30,8 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se incorporara progresivamente contenido sobre eIDAS 2.0 y la cartera europea de identidad digital
 - la organizacion del material sera modular para permitir crecer por capitulos
 - cuando se hable de Espana, se aclarara que eIDAS no se "transpone" estrictamente, sino que se complementa con normativa nacional
+- el `README.md` actuara como portada e indice navegable del tutorial
+- las fichas de empresa se ubicaran en subdirectorios propios dentro de `tutorial` cuando aporte claridad organizativa
 
 ### Riesgos o dudas abiertas
 
@@ -33,7 +41,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 
 ### Siguientes pasos sugeridos
 
-1. desarrollar un capitulo de introduccion a eIDAS
-2. crear un glosario basico de terminos
-3. anadir una seccion sobre tipos de firma electronica
-4. incorporar referencias a casos de uso reales
+1. anadir una seccion comparativa sobre firma electronica simple, avanzada y cualificada
+2. desarrollar un bloque sobre servicios de confianza cualificados
+3. incorporar referencias a casos de uso reales
+4. estudiar la futura incorporacion de un apartado especifico sobre eIDAS 2.0

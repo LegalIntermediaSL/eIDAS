@@ -2,6 +2,15 @@
 
 Proyecto introductorio y progresivo sobre el reglamento eIDAS de la Union Europea, pensado como base para documentacion, materiales didacticos y futuras ampliaciones sobre identidad digital, confianza electronica y servicios cualificados.
 
+## Indice actual del tutorial
+
+Las secciones desarrolladas hasta ahora son:
+
+1. [Que es el reglamento eIDAS](./tutorial/01-reglamento-eidas.md)
+2. [Glosario basico de terminos eIDAS](./tutorial/02-glosario-eidas.md)
+3. [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
+4. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+
 ## Objetivo
 
 Este repositorio nace para construir un tutorial claro sobre:
@@ -25,9 +34,11 @@ El proyecto seguira un formato practico y gradual:
 5. marco de cumplimiento
 6. evolucion hacia eIDAS 2.0
 
-## Contenido previsto
+## Estructura del contenido
 
 ### 1. Introduccion a eIDAS
+
+- [Que es el reglamento eIDAS](./tutorial/01-reglamento-eidas.md)
 
 - origen del reglamento
 - ambito territorial
@@ -35,6 +46,8 @@ El proyecto seguira un formato practico y gradual:
 - objetivos de interoperabilidad y seguridad juridica
 
 ### 2. Conceptos fundamentales
+
+- [Glosario basico de terminos eIDAS](./tutorial/02-glosario-eidas.md)
 
 - identificacion electronica
 - autenticacion
@@ -53,6 +66,9 @@ El proyecto seguira un formato practico y gradual:
 - conservacion y validacion
 
 ### 4. Actores y ecosistema
+
+- [Prestadores de servicios de confianza](./tutorial/03-prestadores-servicios-confianza.md)
+- [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 - ciudadanos
 - empresas
@@ -85,25 +101,37 @@ El repositorio se apoyara en tres documentos principales:
 - `CHANGELOG.md`: registro de cambios relevantes del contenido
 - `BITACORA.md`: seguimiento del trabajo, decisiones y proximos pasos
 
-## Primeros temas a desarrollar
-
-- resumen pedagogico de que regula exactamente eIDAS
-- comparativa entre firma electronica avanzada y cualificada
-- explicacion de los servicios de confianza cualificados
-- implicaciones practicas de eIDAS 2.0
-- glosario basico de terminos
-
 ## Estado actual
 
-El proyecto se encuentra en fase inicial de definicion editorial. Ya existe una base documental para empezar a desarrollar el tutorial y ordenar la investigacion.
+El proyecto ya cuenta con una base editorial y con tres piezas de contenido inicial dentro de la carpeta `tutorial`. En este momento, el repositorio cubre:
+
+- una introduccion explicativa al reglamento eIDAS
+- un glosario basico de conceptos
+- una seccion especifica sobre prestadores cualificados y no cualificados
+- una ficha empresarial inicial dedicada a Legal Intermedia S.L.
+
+## Proximos temas a desarrollar
+
+- comparativa entre firma electronica avanzada y cualificada
+- implicaciones practicas de eIDAS 2.0
+- analisis de los servicios de confianza cualificados
+- casos de uso reales en empresa y Administracion
+- mapa de actores institucionales y supervisores
 
 ## Proxima iteracion recomendada
 
-Como siguiente paso, conviene crear el primer bloque tematico completo:
+Como siguiente paso, conviene desarrollar un bloque comparativo sobre firma electronica:
 
-1. una introduccion extensa a eIDAS
-2. un glosario minimo
-3. una seccion dedicada a firma y sello electronico
+1. firma electronica simple
+2. firma electronica avanzada
+3. firma electronica cualificada
+
+## Referencias iniciales
+
+- [Reglamento (UE) 910/2014 en EUR-Lex](https://eur-lex.europa.eu/eli/reg/2014/910/oj)
+- [Ley 6/2020 en el BOE](https://www.boe.es/buscar/act.php?id=BOE-A-2020-14046)
+- [TSL de Espana](https://sedediatid.mineco.gob.es/Prestadores/TSL/TSL.xml)
+- [Trusted List Browser de la UE](https://webgate.ec.europa.eu/tl-browser/)
 
 ## Licencia
 

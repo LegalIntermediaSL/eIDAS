@@ -17,3 +17,9 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - redaccion del primer documento tematico: `tutorial/01-reglamento-eidas.md`
 - inclusion de enlaces oficiales al reglamento eIDAS en EUR-Lex y a la Ley 6/2020 en el BOE
 - redaccion del glosario inicial en `tutorial/02-glosario-eidas.md`
+- redaccion de la seccion sobre prestadores en `tutorial/03-prestadores-servicios-confianza.md`
+- inclusion de enlaces oficiales a la TSL espanola, a la consulta nacional de prestadores y al portal europeo de listas de confianza
+- actualizacion de `README.md` como indice navegable con enlaces a las secciones del tutorial
+- actualizacion de `BITACORA.md` y `CHANGELOG.md` para reflejar el estado actual del proyecto
+- creacion de la seccion empresarial `tutorial/legal-intermedia/01-legal-intermedia-sl.md`
+- inclusion de Legal Intermedia S.L. en el indice del `README.md`
