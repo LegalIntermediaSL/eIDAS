@@ -4,6 +4,24 @@
 
 Uno de los puntos que mas confusion genera en eIDAS es la relacion entre conceptos que se parecen, pero no son equivalentes. Esta seccion ofrece un mapa conceptual sencillo para entender como se conectan varias piezas del sistema.
 
+```mermaid
+flowchart LR
+    A["Identidad digital"] --> B["Wallet europea"]
+    B --> C["Credenciales y atributos"]
+    C --> D["Autenticacion"]
+    C --> E["Firma en determinados contextos"]
+    F["Certificado"] --> G["Firma electronica"]
+    F --> H["Sello electronico"]
+    G --> I["Persona fisica"]
+    H --> J["Persona juridica"]
+    K["Sello de tiempo"] --> L["Evidencia temporal"]
+    M["Entrega certificada"] --> N["Prueba de envio y recepcion"]
+    O["Prestador"] --> F
+    O --> K
+    O --> M
+    P["Lista de confianza (TSL)"] --> O
+```
+
 ## 1. Firma electronica
 
 La firma electronica se vincula a una persona fisica y sirve para firmar datos electronicos.

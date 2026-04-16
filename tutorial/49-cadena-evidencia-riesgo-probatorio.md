@@ -14,6 +14,17 @@ Lo verdaderamente relevante suele ser la cadena de evidencia completa:
 
 Por eso, hablar de eIDAS sin hablar de evidencia y prueba deja incompleta la imagen real del problema.
 
+```mermaid
+flowchart TD
+    A["Proceso digital"] --> B["Identificacion o autenticacion"]
+    B --> C["Consentimiento o actuacion"]
+    C --> D["Firma, sello o evidencia equivalente"]
+    D --> E["Sello de tiempo o referencia temporal"]
+    E --> F["Validacion"]
+    F --> G["Custodia"]
+    G --> H["Defensa probatoria futura"]
+```
+
 ## Que es la cadena de evidencia
 
 La cadena de evidencia es el conjunto ordenado de elementos que permiten reconstruir y defender un proceso digital.

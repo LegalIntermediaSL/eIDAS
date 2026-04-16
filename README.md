@@ -22,6 +22,10 @@ La idea es que el contenido sea comprensible para perfiles juridicos, tecnicos y
 
 Para facilitar la navegacion, el tutorial se organiza de manera tematica:
 
+### 0. Entrada rapida
+
+- [Guia rapida del tutorial eIDAS](./tutorial/00-guia-rapida.md)
+
 ### 1. Fundamentos
 
 - [Que es el reglamento eIDAS](./tutorial/01-reglamento-eidas.md)
@@ -96,6 +100,11 @@ Para facilitar la navegacion, el tutorial se organiza de manera tematica:
 
 - [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
+### 9. Espana
+
+- [Marco nacional y contexto de Espana](./tutorial/50-espana-marco-nacional.md)
+- [Supervision, TSL y prestadores en Espana](./tutorial/51-espana-supervision-tsl.md)
+
 ## Publico objetivo
 
 Este material puede ser util para:
@@ -120,11 +129,13 @@ El seguimiento del desarrollo del proyecto se mantiene preferentemente en `BITAC
 
 El proyecto ya cuenta con una base editorial y con varias piezas de contenido dentro de la carpeta `tutorial`. Actualmente cubre:
 
+- una guia rapida de entrada al tutorial
 - fundamentos normativos y glosarios
 - servicios de confianza y sus diferencias
 - actores, prestadores y listas de confianza
 - interoperabilidad y reconocimiento transfronterizo
 - wallet europea y evolucion hacia eIDAS 2.0
+- contexto nacional de Espana, supervision y TSL
 - casos de uso, comparativas y preguntas frecuentes
 - implantacion, gobierno interno y custodia de evidencias
 - tablas-resumen, mapas conceptuales y bibliografia de apoyo

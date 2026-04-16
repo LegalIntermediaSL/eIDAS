@@ -73,6 +73,9 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se homogeneizo la primera mension de `wallet europea` y de `lista de confianza (TSL)` en capitulos clave
 - se anadio un capitulo especifico sobre interoperabilidad y reconocimiento transfronterizo dentro del ecosistema eIDAS
 - se incorporo un nuevo capitulo sobre cadena de evidencia y riesgo probatorio con enfoque practico
+- se creo una guia rapida inicial para facilitar la entrada al tutorial segun el perfil del lector
+- se incorporo un bloque especifico sobre Espana, marco nacional, supervision y TSL
+- se reforzaron varios capitulos con diagramas Mermaid para mejorar la lectura visual
 
 ### Decisiones tomadas
 
