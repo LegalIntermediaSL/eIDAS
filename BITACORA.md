@@ -26,6 +26,12 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redacto una seccion especifica sobre certificados cualificados
 - se redactaron nuevas secciones sobre sellos electronicos, sellos de tiempo y entrega electronica certificada
 - se anadio un `.gitignore` para evitar la incorporacion accidental de archivos `.DS_Store`
+- se redacto una vision general sobre servicios de confianza cualificados
+- se anadio una seccion de casos de uso reales en empresa y Administracion
+- se incorporo una introduccion actualizada a eIDAS 2.0 y a la Cartera Europea de Identidad Digital
+- se redacto un mapa basico de actores institucionales y supervisores
+- se creo una seccion especifica sobre la wallet europea
+- se anadio un glosario avanzado de eIDAS 2.0
 
 ### Decisiones tomadas
 
@@ -45,7 +51,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 
 ### Siguientes pasos sugeridos
 
-1. desarrollar un bloque sobre servicios de confianza cualificados
-2. incorporar referencias a casos de uso reales
-3. estudiar la futura incorporacion de un apartado especifico sobre eIDAS 2.0
-4. revisar en una siguiente pasada la consistencia terminologica global del tutorial
+1. desarrollar comparativas entre usos empresariales y administrativos
+2. revisar en una siguiente pasada la consistencia terminologica global del tutorial
+3. valorar la incorporacion de bibliografia y fuentes por capitulo
+4. crear un mapa de relaciones entre firma, sello, certificado y wallet

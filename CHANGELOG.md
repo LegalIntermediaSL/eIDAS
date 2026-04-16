@@ -30,3 +30,7 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - redaccion de las secciones `tutorial/06-sellos-electronicos.md`, `tutorial/07-sellos-de-tiempo.md` y `tutorial/08-entrega-electronica-certificada.md`
 - actualizacion del `README.md` para incorporar los nuevos servicios de confianza al indice del tutorial
 - incorporacion de `.gitignore` para excluir archivos `.DS_Store`
+- redaccion de las secciones `tutorial/09-servicios-confianza-cualificados.md`, `tutorial/10-casos-de-uso.md` y `tutorial/11-eidas-2.md`
+- actualizacion del `README.md` para incorporar servicios cualificados, casos de uso y eIDAS 2.0 al indice del tutorial
+- redaccion de las secciones `tutorial/12-actores-institucionales.md`, `tutorial/13-wallet-europea.md` y `tutorial/14-glosario-eidas-2-avanzado.md`
+- actualizacion del `README.md` para incorporar actores, wallet y glosario avanzado al indice del tutorial
