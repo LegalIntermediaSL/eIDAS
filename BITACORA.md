@@ -12,6 +12,10 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se creo `CHANGELOG.md` para dar trazabilidad a la evolucion del contenido
 - se creo `BITACORA.md` para dejar constancia del proceso de construccion
 - se propuso una estructura inicial del tutorial orientada a publico juridico, tecnico y de negocio
+- se creo la carpeta `tutorial` para alojar el contenido tematico
+- se redacto un primer documento explicativo sobre el reglamento eIDAS
+- se incorporaron enlaces oficiales al texto europeo y a la Ley 6/2020 en Espana
+- se redacto un glosario inicial de terminos eIDAS para facilitar la lectura del tutorial
 
 ### Decisiones tomadas
 
@@ -19,6 +23,7 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - el tutorial tendra un enfoque divulgativo, pero sin perder rigor conceptual
 - se incorporara progresivamente contenido sobre eIDAS 2.0 y la cartera europea de identidad digital
 - la organizacion del material sera modular para permitir crecer por capitulos
+- cuando se hable de Espana, se aclarara que eIDAS no se "transpone" estrictamente, sino que se complementa con normativa nacional
 
 ### Riesgos o dudas abiertas
 
