@@ -53,6 +53,9 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 - se redactaron casos practicos paso a paso
 - se incorporaron anexos de decision y gobierno interno
 - se limpio el `README.md` para dejar el seguimiento del proyecto principalmente en `BITACORA.md` y `CHANGELOG.md`
+- se amplio la bibliografia por bloques tematicos
+- se creo una seccion especifica sobre custodia y gestion de evidencias
+- se anadieron casos documentales mas extensos
 
 ### Decisiones tomadas
 
@@ -73,6 +76,6 @@ El repositorio estaba practicamente vacio, con un `README.md` minimo y la licenc
 ### Siguientes pasos sugeridos
 
 1. revisar en una siguiente pasada la consistencia terminologica global del tutorial
-2. ampliar la bibliografia y las fuentes por seccion
-3. desarrollar anexos mas detallados de gobierno y custodia de evidencias
-4. valorar la incorporacion de casos documentales mas extensos
+2. desarrollar anexos mas detallados de gobierno y custodia de evidencias
+3. ampliar aun mas la bibliografia por secciones concretas
+4. valorar la incorporacion de tablas-resumen por capitulo

@@ -44,7 +44,10 @@ Las secciones desarrolladas hasta ahora son:
 32. [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
 33. [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
 34. [Anexos de decision y gobierno interno](./tutorial/34-anexos-gobierno-interno.md)
-35. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
+35. [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
+36. [Custodia y gestion de evidencias](./tutorial/36-custodia-evidencias.md)
+37. [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
+38. [Legal Intermedia S.L.](./tutorial/legal-intermedia/01-legal-intermedia-sl.md)
 
 ## Objetivo
 
@@ -144,6 +147,9 @@ El proyecto seguira un formato practico y gradual:
 - [Glosario de abreviaturas](./tutorial/32-glosario-abreviaturas.md)
 - [Casos practicos paso a paso](./tutorial/33-casos-paso-a-paso.md)
 - [Anexos de decision y gobierno interno](./tutorial/34-anexos-gobierno-interno.md)
+- [Bibliografia ampliada por secciones](./tutorial/35-bibliografia-ampliada.md)
+- [Custodia y gestion de evidencias](./tutorial/36-custodia-evidencias.md)
+- [Casos documentales extensos](./tutorial/37-casos-documentales-extensos.md)
 
 - European Digital Identity Wallet
 - reutilizacion de credenciales
@@ -206,6 +212,9 @@ El proyecto ya cuenta con una base editorial y con varias piezas de contenido de
 - un glosario de abreviaturas
 - varios casos practicos paso a paso
 - orientaciones de gobierno interno
+- una bibliografia ampliada
+- una seccion especifica sobre custodia de evidencias
+- casos documentales mas extensos
 - una ficha empresarial inicial dedicada a Legal Intermedia S.L.
 
 ## Referencias iniciales

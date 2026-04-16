@@ -46,3 +46,5 @@ El formato se inspira en Keep a Changelog y se adapta a un proyecto de documenta
 - actualizacion del `README.md` para incorporar comparativa de tecnologias, errores frecuentes y buenas practicas al indice
 - redaccion de las secciones `tutorial/32-glosario-abreviaturas.md`, `tutorial/33-casos-paso-a-paso.md` y `tutorial/34-anexos-gobierno-interno.md`
 - reorganizacion del `README.md` para dejar el seguimiento del desarrollo del proyecto en `BITACORA.md` y `CHANGELOG.md`
+- redaccion de las secciones `tutorial/35-bibliografia-ampliada.md`, `tutorial/36-custodia-evidencias.md` y `tutorial/37-casos-documentales-extensos.md`
+- actualizacion del `README.md` para incorporar bibliografia ampliada, custodia de evidencias y casos documentales extensos
